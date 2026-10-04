@@ -1,0 +1,6 @@
+{
+  "name": "La Fucina del Maglio Calvi",
+  "description": "Simulatore interattivo di forgiatura idraulica ispirato allo storico Maglio Calvi di Comenduno (Albino). Modella il ferro incandescente con pochi colpi precisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
